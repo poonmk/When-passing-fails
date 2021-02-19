@@ -1,15 +1,14 @@
 """
 Dubins model basal
-"""i
+"""
 
-mport numpy as np
+import numpy as np
 import scipy.stats as stats
 import matplotlib.pyplot as plt
 import pymc3 as pm
 
 # Test data set and conversion to rates (yp)
-y = np.asarray([27,26,23,34,27,31,25,27,28,33,30,30,31,35,21,27,29,31,26,25,27,30,22,31
-,27,32,27,28,35,34,31,25,28,30,33,32,30,28,26,24,31,25])
+y = np.asarray([27,26,23,34,27,31,25,27,28,33,30,30,31,35,21,27,29,31,26,25,27,30,22,31,27,32,27,28,35,34,31,25,28,30,33,32,30,28,26,24,31,25]) # A test data set
 print('Length of array: ', y.size)
 q = 40 # How many total questions
 yp = y.astype(float)/q
