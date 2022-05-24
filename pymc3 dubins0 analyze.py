@@ -1,5 +1,6 @@
 """
-Dubins model basal
+Basal model
+Consideration of only frequency (rate) of correct responses
 """
 
 import numpy as np
@@ -9,7 +10,7 @@ import pymc3 as pm
 import arviz as az
 print(f"Running on PyMC3 v{pm.__version__}")
 
-# Test data set and conversion to rates (yp)
+# Test data set and conversion to rates (yp = frequency of correct responses)
 y = np.asarray([27,26,23,34,27,31,25,27,28,33,30,30,31,35,21,27,29,31,26,25,27,30,22,31,27,32,27,28,35,34,31,25,28,30,33,32,30,28,26,24,31,25])
 print('Length of array: ', y.size)
 q = 40 # How many total questions
