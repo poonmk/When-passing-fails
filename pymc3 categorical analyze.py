@@ -1,5 +1,7 @@
 """
-Dubins model with with paired confidence
+Model with with paired confidence
+Input confidence (feel_raw) and test performance (result) as array
+Array is arranged in order oconfidence: [most confident (know), intermediate confidence (hunch), least confident (guess)]
 """
 
 import numpy as np
