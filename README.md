@@ -10,3 +10,5 @@ b) Requires PyMC3 3.11.x or newer and its dependencies e.g., theano-pymc.
 c) SciPy is required for MLE fits.
 
 MCQ Simulator is an Excel spreadsheet for computing statistically controlled pass marks based on user inputs (which may come from data analysis from the scripts).
+
+![alt text](https://github.com/poonmk/When-passing-fails/blob/Master/Slide eq.png?raw=true)
