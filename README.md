@@ -12,7 +12,6 @@ Files with names pymc3 *.py are scripts for analyzing data (see schematics below
 **pymc3 categorical analyze.py**: Knowledge resolution with paired confidence ratings
 
 \
-\
 
 >Note in usage:  
 >a) Currently designed to be run locally. Sample data is provided inline.  
