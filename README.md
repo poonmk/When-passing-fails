@@ -1,4 +1,4 @@
-# When-passing-fails
+# Probabilistic models for multiple-choice test analysis
 
 ## Citation for inspiration
 Dubins et al CPTL 2016; 8, 598
