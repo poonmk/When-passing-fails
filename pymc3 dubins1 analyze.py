@@ -1,5 +1,6 @@
 """
-Dubins model with k (explicit knowledge)
+Model with k (explicit knowledge)
+Consideration of bonly frequency (rate) of correct responses 
 """
 
 import numpy as np
