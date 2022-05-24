@@ -11,4 +11,4 @@ c) SciPy is required for MLE fits.
 
 MCQ Simulator is an Excel spreadsheet for computing statistically controlled pass marks based on user inputs (which may come from data analysis from the scripts).
 
-![alt text](https://github.com/poonmk/When-passing-fails/blob/479a4e783feb1d6f580564fc2940d71d7b988de9/Slide%20eq.pngraw=true)
+![Employee data](/poonmk/When-passing-fails/Slide%20eq.png?raw=true "Employee Data title")
