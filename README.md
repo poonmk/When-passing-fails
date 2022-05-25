@@ -4,7 +4,7 @@
 
 A hierarachical series of probablistic models of psychometric states (e.g., knowledge, guessing, blunder) in MC testing.
 
-### Original citation
+###  Original citation
 
 Dubins et al CPTL 2016; 8, 598
 
