@@ -1,8 +1,8 @@
-# Probabilistic models for multiple-choice (MC) test analysis
+# Probabilistic models for multiple-choice test analysis
 
 ## Introduction
 
-A hierarachical series of probablistic models of psychometric states (e.g., knowledge, guessing, blunder) in MC testing.
+A hierarachical series of probablistic models of psychometric states (e.g., knowledge, guessing, blunder) in multiple-choice testing.
 
 ## Description of python scripts
 
