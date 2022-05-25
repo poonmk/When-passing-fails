@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A hierarachical series of probablistic models of psychometric states (e.g., knowledge, guessing, blunder) in multiple-choice testing. The Jupiter notebook provides an overview of the statistical bases for the models.
+A hierarachical series of probablistic models of psychometric states (e.g., knowledge, guessing, blunder) in multiple-choice testing. The Jupyter notebook provides an overview of the statistical bases for the models.
 
 ## Description of python scripts
 
