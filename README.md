@@ -4,10 +4,6 @@
 
 A hierarachical series of probablistic models of psychometric states (e.g., knowledge, guessing, blunder) in MC testing.
 
-###  Original citation
-
-Dubins et al CPTL 2016; 8, 598
-
 ## Description of python scripts
 
 Files with names pymc3 *.py are scripts for analyzing data (see schematics below):
@@ -28,3 +24,7 @@ c) SciPy is required dependency for MLE fits.
 MCQ Simulator is an Excel spreadsheet for computing statistically controlled pass marks based on user inputs (which may come from data analysis from the scripts).
 
 Instructions for use are provided in the first sheet of the spreadsheet.
+
+##  Original citation
+
+Dubins et al CPTL 2016; 8, 598
